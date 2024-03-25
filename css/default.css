@@ -1,0 +1,7 @@
+body{
+    background-color: #E9B2FF;
+}
+
+*{ /*여기서 *은 css 선택자로 모든 것에 해당한다는 기호*/
+    font-family: 'Nanum Pen Script', cursive;
+}
